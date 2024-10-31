@@ -6,6 +6,7 @@
 - 😄 Pronouns: My pronouns are he/him/his
 - ⚡ Fun fact: I own a development studio!
 - ⚡⚡ Fun fact 2: I also own a Discord Server: https://discord.gg/dxKgwmuHbs
+- ⚡⚡⚡ Fun fact 3: I'm working on a project with @PyrockZen
 
 <!---
 Twc-Official/Twc-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
