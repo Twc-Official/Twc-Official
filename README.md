@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Roblox Studio
 - 📫 How to reach me: Discord ( @Twc._.Official ), On Gmail ( twc.001.official.contact@gmail.com ) and on gravatar.
 - 😄 Pronouns: My pronouns are he/him/his
-- ⚡ Fun fact: I own a development studio!
+- ⚡ Fun fact: I own a development group!
 - ⚡⚡ Fun fact 2: I also own a Discord Server: https://discord.gg/dxKgwmuHbs
 - ⚡⚡⚡ Fun fact 3: I'm working on a project with @PyrockZen
 
