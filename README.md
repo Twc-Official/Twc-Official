@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="center">About me:</h2>
 
 ###
 
@@ -78,11 +78,8 @@
 
 ###
 
-<h6 align="center">And Much, Much More!</h6>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Twc-Official.Twc-Official&left_color=black&right_color=purple"  />
+</div>
 
 ###
-
-<!---
-Twc-Official/Twc-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
