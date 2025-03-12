@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Twc-Official
+- 👋 Hey, I’m @Twc-Official.
 - 👀 I’m interested in Game Development, Web Development, Games in general, and Lua/Luau Coding.
 - 🌱 I’m currently learning Advanced Programming in Roblox Studio (http:Get() for example)
 - 💞️ I’m looking to collaborate on Roblox Studio via my [Roblox Creator Hub Profile](https://create.roblox.com/talent/creators/2676218320)
-- 📫 How to reach me: Discord ( @Twc._.Official ), On Gmail ( twc.001.official.contact@gmail.com ) and on gravatar.
+- 📫 How to reach me: Discord (@Twc._.Official), On Gmail (twc.001.official.contact@gmail.com) and [on gravatar.](https://gravatar.com/twcofficialdev)
 - 😄 Pronouns: My pronouns are he/him/his
 - ⚡ Fun fact: I own a development group!
-- ⚡⚡ Fun fact 2: I also own a Discord Server: https://discord.gg/dxKgwmuHbs
-- ⚡⚡⚡ Fun fact 3: I'm working on a project with @PyrockZen
+- ⚡⚡ Fun fact 2: I also own a [Discord Server!](https://discord.gg/dxKgwmuHbs)
+- ⚡⚡⚡ Fun fact 3: I'm working on a project with my game development group!
 
 <!---
 Twc-Official/Twc-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
