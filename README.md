@@ -6,11 +6,17 @@
 
 ###
 
-<h2 align="center">About me:</h2>
+<h2 align="center">About Me:</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2020!<br>📚 I'm currently learning Advanced Lua, such as Http:Get(), JSON:Encode() and more!<br>💞️ I’m looking to collaborate on Roblox Studio via my Roblox Creator Hub Profile.<br>📫 How to reach me: Discord (@Twc._.Official), On Gmail (twc.001.official.contact@gmail.com) and on gravatar (Found in my GitHub links)<br>😄 Pronouns: My pronouns are he/him/his.<br>⚡ Fun fact: I own a development group!<br>⚡⚡ Fun fact 2: I also own a Discord Server!<br>⚡⚡⚡ Fun fact 3: I'm working on a project with my game development group!</p>
+<br clear="both">
+
+<img align="right" height="250" src="https://gravatar.com/avatar/a602af2ffeab5104168483d6039c37ae?size=256"  />
+
+###
+
+<p align="left">✨ I started Programming in Late August, 2020.<br><br>📚 I'm currently learning Advanced Lua, such as Http:Get(), JSON:Encode() and more!<br><br>💞️ I’m looking to collaborate on Roblox Studio via my Roblox Creator Hub Profile.<br><br>📫 How to reach me: Discord (@Twc._.Official), On Gmail (twc.001.official.contact@gmail.com) and on gravatar (Found in my GitHub links)<br><br>😄 Pronouns: My pronouns are he/him/his.<br><br>⚡ Fun fact: I own a development group!<br><br>⚡⚡ Fun fact 2: I also own a Discord Server!<br><br>⚡⚡⚡ Fun fact 3: I'm working on a project with my game development group!</p>
 
 ###
 
@@ -31,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Twc-Official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Twc-Official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -78,8 +84,14 @@
 
 ###
 
+<h2 align="center">My Stats:</h2>
+
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Twc-Official.Twc-Official&left_color=black&right_color=purple"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Twc-Official&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Twc-Official&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Twc-Official&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
