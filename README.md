@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ I started Programming in Late August, 2020.<br><br>📚 I'm currently learning Advanced Lua, such as Http:Get(), JSON:Encode() and more!<br><br>💞️ I’m looking to collaborate on Roblox Studio via my Roblox Creator Hub Profile.<br><br>📫 How to reach me: Discord (@Twc._.Official), On Gmail (twc.001.official.contact@gmail.com) and on gravatar (Found in my GitHub links)<br><br>😄 Pronouns: My pronouns are he/him/his.<br><br>⚡ Fun fact: I own a development group!<br><br>⚡⚡ Fun fact 2: I also own a Discord Server!<br><br>⚡⚡⚡ Fun fact 3: I'm working on a project with my game development group!</p>
+<p align="left">✨ I started Programming in Late August, 2020.<br><br>📚 I'm currently learning Advanced Lua, such as Http:Get(), JSON:Encode() and more!<br><br>💞️ I’m looking to collaborate on Roblox Studio via my Roblox Creator Hub Profile.<br><br>📫 How to reach me: Discord (@Twc._.Official), On Gmail (twc.personalcontact@gmail.com) and on gravatar (Found in my GitHub links)<br><br>😄 Pronouns: My pronouns are he/him/his.<br><br>⚡ Fun fact: I own a development group!<br><br>⚡⚡ Fun fact 2: I also own a Discord Server!<br><br>⚡⚡⚡ Fun fact 3: I'm working on a project with my game development group!</p>
 
 ###
 
@@ -77,7 +77,7 @@
   <a href="https://stackoverflow.com/users/23963445/twc" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
-  <a href="mailto:twc.001.official.contact@gmail.com" target="_blank">
+  <a href="mailto:twc.personalcontact@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://x.com/Twc_Official_X" target="_blank">
