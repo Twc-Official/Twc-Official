@@ -10,13 +10,15 @@
 
 ###
 
-<br clear="both">
+<br>
 
-<img align="right" height="250" src="https://gravatar.com/avatar/a602af2ffeab5104168483d6039c37ae?size=256"  />
+<div align="center">
+  <img height="200" src="https://gravatar.com/avatar/a602af2ffeab5104168483d6039c37ae?size=256"  />
+</div>
 
 ###
 
-<p align="left">✨ I started Programming in Late August, 2020.<br><br>📚 I'm currently learning Advanced Lua, such as Http:Get(), JSON:Encode() and more!<br><br>💞️ I’m looking to collaborate on Roblox Studio via my Roblox Creator Hub Profile.<br><br>📫 How to reach me: Discord (@Twc._.Official), On Gmail (twc.personalcontact@gmail.com) and on gravatar (Found in my GitHub links)<br><br>😄 Pronouns: My pronouns are he/him/his.<br><br>⚡ Fun fact: I own a development group!<br><br>⚡⚡ Fun fact 2: I also own a Discord Server!<br><br>⚡⚡⚡ Fun fact 3: I'm working on a project with my game development group!</p>
+<p align="center">✨ I started Programming in Late August, 2020.<br><br>📚 I'm currently learning Advanced Lua, such as Http:Get(), JSON:Encode() and more!<br><br>💞️ I’m looking to collaborate on Roblox Studio via my Roblox Creator Hub Profile.<br><br>📫 How to reach me: Discord (@Twc._.Official), On Gmail (twc.personalcontact@gmail.com) and on gravatar (Found in my GitHub links)<br><br>😄 Pronouns: My pronouns are he/him/his.<br><br>⚡ Fun fact: I own a development group!<br><br>⚡⚡ Fun fact 2: I also own a Discord Server!<br><br>⚡⚡⚡ Fun fact 3: I'm working on a project with my game development group!</p>
 
 ###
 
