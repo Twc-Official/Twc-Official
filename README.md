@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Twc and I am a Game Developer, Website Creator, and the Owner of Fusing Developments.</p>
+<p align="center">My name is Twc and I am a Game Developer, Website Creator, and the Owner of MetalHeart Studios.</p>
 
 ###
 
@@ -11,10 +11,6 @@
 ###
 
 <br>
-
-<div align="center">
-  <img height="200" src="https://gravatar.com/avatar/a602af2ffeab5104168483d6039c37ae?size=256"  />
-</div>
 
 ###
 
