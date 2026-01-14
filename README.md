@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Twc, Here's Some Things About Me:</h1>
+<h1 align="center">Hey, I'm Twc, Here's Some Things About Me:</h1>
 
 ###
 
@@ -13,9 +13,9 @@
 <br>
 
 ###
+<p align="center"><strong>My expertise:</strong> I started programming in Late August, 2020, primarily in Lua. Because of this, I use Python and Lua significantly more than other languages. <br><br> <strong>What I'm learning:</strong> Currently, I'm learning Advanced Lua, such as http:Get(), JSON:Encode(), and more like that. <br><br> I believe that, as long as you keep trying and never give up, you can succeed in whatever you want to succeed in. I was once told by someone to not give up on my dreams, and I have stayed true to that statement. <br><br> <strong>For inquiries:</strong> You can either mail me at <strong><a href=mailto:twc.personalcontact@gmail.com>my contacting email</a></strong>, or <strong><a href=https://x.com/twc_official_x>message me on twitter.</a></strong> </p>
 
-<p align="center">✨ I started Programming in Late August, 2020.<br><br>📚 I'm currently learning Advanced Lua, such as Http:Get(), JSON:Encode() and more!<br><br>💞️ I’m looking to collaborate on Roblox Studio via my Roblox Creator Hub Profile.<br><br>📫 How to reach me: Discord (@Twc._.Official), On Gmail (twc.personalcontact@gmail.com) and on gravatar (Found in my GitHub links)<br><br>😄 Pronouns: My pronouns are he/him/his.<br><br>⚡ Fun fact: I own a development group!<br><br>⚡⚡ Fun fact 2: I also own a Discord Server!<br><br>⚡⚡⚡ Fun fact 3: I'm working on a project with my game development group!</p>
-
+<p align="center"><strong>MetalHeart Studios:</strong> [SOON] (By this I mean that I'm tired, so I'll leave editing this for another day ;) )</p>
 ###
 
 <h2 align="center">I Code With The Following Languages:</h2>
